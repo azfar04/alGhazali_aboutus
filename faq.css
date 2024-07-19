@@ -1,0 +1,56 @@
+body {
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:#00756c;
+    ;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+h2 {
+    color: #333;
+}
+
+.faq-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.faq-item h3 {
+    margin-top: 0;
+    color: #007BFF;
+}
+
+.faq-item p {
+    margin: 0.5rem 0 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: absolute;
+    bottom: auto;
+    width: 100%;
+}
